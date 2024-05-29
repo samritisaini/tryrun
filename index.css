@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.page{
+   background-color: antiquewhite;
+    height: 900px;
+    width: 900px;
+    border: 20px solid black;
+    margin:50px 50px;
+
+}
+  .img_box,img{
+    height: 200px;
+border-radius: 70px;
+  }
+  .upper{
+text-align: center;
+margin-top: 40px;
+text
+  }
+  .img_box{
+    ma
+  }
+  .lower{
+
+    margin: 20px 20px;
+  }
+  
+
